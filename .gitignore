@@ -59,6 +59,7 @@ go.work
 .temp/
 temp/
 work/
+bsdesign/
 
 # #
 #   Python Cache
